@@ -1,0 +1,15 @@
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\bin\Debug\net7.0\003 - heranca.exe
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\bin\Debug\net7.0\003 - heranca.deps.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\bin\Debug\net7.0\003 - heranca.runtimeconfig.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\bin\Debug\net7.0\003 - heranca.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\bin\Debug\net7.0\003 - heranca.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.csproj.AssemblyReference.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.AssemblyInfoInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.AssemblyInfo.cs
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.csproj.CoreCompileInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\refint\003 - heranca.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\003 - heranca.genruntimeconfig.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\003 - heranca\003 - heranca\obj\Debug\net7.0\ref\003 - heranca.dll

@@ -1,0 +1,15 @@
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\bin\Debug\net7.0\002 - banco.exe
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\bin\Debug\net7.0\002 - banco.deps.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\bin\Debug\net7.0\002 - banco.runtimeconfig.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\bin\Debug\net7.0\002 - banco.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\bin\Debug\net7.0\002 - banco.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.csproj.AssemblyReference.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.AssemblyInfoInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.AssemblyInfo.cs
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.csproj.CoreCompileInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\refint\002 - banco.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\002 - banco.genruntimeconfig.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\002 - banco\002 - banco\obj\Debug\net7.0\ref\002 - banco.dll

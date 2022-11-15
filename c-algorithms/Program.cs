@@ -1,21 +1,36 @@
-﻿const string olaMundo = "Olá mundo, este é meu primeiro programa c# ";
-string nomeCompleto;
-int idade;
+﻿
 
-Console.WriteLine("Qual seu nome completo?");
+string mensagem;
 
-nomeCompleto = Console.ReadLine().ToString();
-
-Console.WriteLine("Qual sua idade?");
-
-idade = Convert.ToInt32(Console.ReadLine());
-
-if (idade == 34 || nomeCompleto == "Davi")
-// if (idade == 34 && nomeCompleto == "Davi")
+try
 {
-    Console.WriteLine(olaMundo + "meu nome é " + nomeCompleto + " minha idade é " + idade);
+    string produtoSelecionado;
+
+    List<string> listaMercado = new List<string>()
+    {
+        "Tomate",
+        "Cebola",
+        "Coca-cola",
+        "Batata",
+        "Vinho",
+        "Pilha",
+        "Suco de uva",
+        "Água",
+        "Chocolate",
+        "Mel"
+    };
+
+    Console.WriteLine("Digite o produto que gostaria de comprar");
+
+    produtoSelecionado = Console.ReadLine();
+
+    Console.WriteLine();
+
 }
-else
+catch (Exception ex)
 {
-    Console.WriteLine("Voce errou a idade ou o nome");
+    mensagem = "Aconteceu o seguint problema: " + ex.Message;
 }
+
+Console.WriteLine("Digite o produto que gostaria de comprar: ");
+produtoSelecionado = Console.ReadLine();

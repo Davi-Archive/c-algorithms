@@ -18,10 +18,10 @@
 
         public string ExibirDadosConta()
         {
-            Console.WriteLine($"A Conta bancária pesquisada é do tipo " +
-    $"{Tipo} com a agência " +
-    $"{Agencia} e inscrita no numero de conta " +
-    $"{Numero}");
+            return $"A Conta bancária pesquisada é do tipo " +
+     $"{Tipo} com a agência " +
+     $"{Agencia} e inscrita no numero de conta " +
+     $"{Numero}  e Saldo {Saldo}";
         }
     }
 }

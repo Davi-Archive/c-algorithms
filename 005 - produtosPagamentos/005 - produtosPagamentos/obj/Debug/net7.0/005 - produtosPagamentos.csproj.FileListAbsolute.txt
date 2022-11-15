@@ -1,0 +1,15 @@
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\bin\Debug\net7.0\005 - produtosPagamentos.exe
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\bin\Debug\net7.0\005 - produtosPagamentos.deps.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\bin\Debug\net7.0\005 - produtosPagamentos.runtimeconfig.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\bin\Debug\net7.0\005 - produtosPagamentos.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\bin\Debug\net7.0\005 - produtosPagamentos.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.csproj.AssemblyReference.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.AssemblyInfoInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.AssemblyInfo.cs
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\refint\005 - produtosPagamentos.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\005 - produtosPagamentos.genruntimeconfig.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\005 - produtosPagamentos\005 - produtosPagamentos\obj\Debug\net7.0\ref\005 - produtosPagamentos.dll

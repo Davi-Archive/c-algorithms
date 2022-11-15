@@ -1,0 +1,15 @@
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\bin\Debug\net7.0\004 - polimorfismo.exe
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\bin\Debug\net7.0\004 - polimorfismo.deps.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\bin\Debug\net7.0\004 - polimorfismo.runtimeconfig.json
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\bin\Debug\net7.0\004 - polimorfismo.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\bin\Debug\net7.0\004 - polimorfismo.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.AssemblyInfo.cs
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\refint\004 - polimorfismo.dll
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.pdb
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\004 - polimorfismo.genruntimeconfig.cache
+C:\Users\Machinery\Desktop\Development\c-algorithms\004 - polimorfismo\004 - polimorfismo\obj\Debug\net7.0\ref\004 - polimorfismo.dll
